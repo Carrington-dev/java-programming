@@ -64,11 +64,11 @@ Thank you for considering contributing to this project! 🎉 Your contributions 
 
 ## 💬 Need Help?  
 
-If you have any questions, feel free to open an issue or contact the maintainer at [your-email@example.com].  
+If you have any questions, feel free to open an issue or contact the maintainer at [code@stemgon.co.za].  
 
 Happy coding! 🚀✨  
 ```
 
 ---
 
-Replace `[your-email@example.com]` with your actual contact email. Let me know if you need any modifications! 😊
+Replace `[code@stemgon.co.za]` with your actual contact email. Let me know if you need any modifications! 😊
