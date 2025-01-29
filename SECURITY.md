@@ -14,7 +14,7 @@ We actively maintain and patch security vulnerabilities in the following version
 If you discover a security vulnerability in this repository, please follow these steps:
 
 1. **Do Not** create a public issue.  
-2. Instead, email the maintainer(s) at [your-email@example.com] with details of the vulnerability.  
+2. Instead, email the maintainer(s) at [code@stemgon.co.za] with details of the vulnerability.  
 3. Provide a clear and detailed description of the issue, including:
    - Steps to reproduce
    - Potential impact
